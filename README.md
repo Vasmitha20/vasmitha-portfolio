@@ -33,4 +33,4 @@ If you'd like to connect or collaborate, use the contact form on the website or 
 
 ## 📌 Live Demo
 
-(Add your Vercel link here after deployment)
+https://vasmitha-portfolio.vercel.app/
