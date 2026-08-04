@@ -481,6 +481,9 @@
       transition: color 0.2s;
     }
     .project-link:hover { color: var(--violet); }
+.project-link.live {
+    color: var(--violet);
+}
 
     /* ════════════════════════════════════════
        SKILLS
